@@ -1,0 +1,6 @@
+<svg width="16" height="24" viewBox="0 0 16 24" xmlns="http://www.w3.org/2000/svg">
+  <!-- Damla şekli -->
+  <path d="M8 0C12 6 16 10 16 15.5C16 20.2 12.4 24 8 24C3.6 24 0 20.2 0 15.5C0 10 4 6 8 0Z" fill="#FF6B6B"></path>
+  <!-- Parlama efekti -->
+  <circle cx="5" cy="6" r="1" fill="white" fill-opacity="0.6"></circle>
+</svg>
