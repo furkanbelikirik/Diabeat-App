@@ -26,3 +26,8 @@ Diabeat, diyabet hastaları için geliştirilmiş bir sağlık takip uygulaması
 - Biomejs
 
 **[Projeyi görmek için tıklayınız...](https://furkanbelikirik-diabeat-app.netlify.app)**
+
+**Demo**
+
+- *E-posta:* demo@diabeat.com
+- *Şifre:* demo
